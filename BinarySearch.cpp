@@ -110,4 +110,5 @@ int main()
 {
     input();
     bubbleShortArray();
+    display();
 }
