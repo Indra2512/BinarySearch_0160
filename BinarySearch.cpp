@@ -111,4 +111,5 @@ int main()
     input();
     bubbleShortArray();
     display();
+    binarySearch();
 }
